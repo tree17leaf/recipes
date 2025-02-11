@@ -20,4 +20,5 @@
 - functionality seems sounds but detail decoration of UI could be added and there might be some corner case that was not taken care of.
 
 ### Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered.
-- fun experience with sample app, looking forward to contributing your app.
+- for the sample app, the number of recipes is not much, but if the number of recipes is big, we may need to consider the pagnation
+  and also need to control of the number of loading images which amounts to the number of image api call using queue management system.
